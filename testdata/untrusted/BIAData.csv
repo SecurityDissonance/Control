@@ -1,0 +1,280 @@
+Asset,OS,IP,MAC,TPM,IsLaptop,Domain,ZipCode,User,Managedby
+FC43a4aa0f,Windows 10,239.196.19.238,000e858c-394e-4a32-b436-e5f442310340,1,0,Fomacose,New Caledonia,Marilynn Kaestner  ,Internal
+FC7f00c0b5,Windows XP,36.95.72.254,0091b512-357c-435e-93a9-8020fba9cdac,1,1,Workgroup,Ban Yang,Karol Benford  ,Resourcers
+FC81f03a61,Windows Server 2016,12.4.182.236,00cb17e6-9d0c-4fe2-b6dd-b53cbf71b9f9,2,1,Montoso,Ban Tai,Nancey Letsinger  ,Resourcers
+FC252dcdff,Windows Server 2016,208.11.200.114,00dc5ca9-0776-43b7-866e-e5562185f014,2.2,1,Contaso,19010,Simonne Madden  ,Outsourcers
+FC6791bd16,Windows 7,235.26.184.179,01810c64-8157-4563-a523-14e62b79cfa6,1.3,0,Workgroup,10706,Tatyana Blackmon,Internal
+FCf59e0e61,Windows Server 2016,135.23.51.49,01dc3d0f-df8d-4fff-85e1-4f1c0ee60565,1,0,Workgroup,30728,Dorla Amin  ,Outsourcers
+FCdef59e13,Windows 7,18.206.148.243,02991a35-7a79-4beb-b310-773195385de5,1.3,0,Workgroup,51242,Brandie Higgins  ,CXD
+FC9c392b4a,Windows 10,25.9.59.31,0378c3e4-fad7-4c21-8973-0965a18abb3b,1,0,Workgroup,71747,Rupert Mcmonagle  ,CXD
+FCf4b924b2,Windows Server 2012,235.194.114.189,0431f0eb-b2f8-49ab-baee-9e79c2bd7daa,2,1,Dev-Contiso,Ruidoso Downs,Gillian Ruddell  ,CXD
+FC38054b62,Windows 10,32.131.72.185,043f2908-edf9-49f8-bc68-79c3c15af5af,1,0,Contaso,90808,Stephen Ellington  ,Internal
+FC1e132f86,Windows 7,243.141.128.240,045cd3f6-88aa-459f-a1a6-30c38913d360,1.3,0,Workgroup,19010,Madalyn Jared  ,Outsourcers
+FCfde7f1fc,Windows 10,203.151.14.192,053c9f95-30b9-4af7-8566-ae8fcaa8526a,1,1,Workgroup,13408,Karol Benford  ,CXD
+FCd35a25db,Windows Server 2012,138.0.97.29,0584302b-f659-4ab5-b43c-87d9face95de,1.3,1,Workgroup,89318,Melodi Pogue  ,Internal
+FC9466d758,Windows 7,181.175.224.21,05d4863b-21b6-43f4-bf9c-219764d16f3d,2,1,Workgroup,La Madera,Josh Blake  ,Resourcers
+FCdd14169b,Windows 7,106.132.112.52,06dfe33d-126a-4a48-9e3e-b65045160a36,1.3,0,Workgroup,Ban So,Paulette Mccrae  ,CXD
+FC74f8bf52,Windows 10,237.111.163.3,06e17249-c561-4a44-9c4f-ba3f433d3fe4,1,1,Workgroup,5842,Arrianna Mccullough,Resourcers
+FC80455dfb,Windows 7,49.200.158.192,08ce0e67-c88f-40a3-8d5d-aec34a73636e,2,1,Workgroup,20277,Quintin Schlueter  ,Resourcers
+FC8b005477,Windows 10,251.132.64.56,094a1c68-c949-4106-ab53-59fe2481e907,2.2,0,Workgroup,Lahan,Rebeca Broadhead  ,Resourcers
+FCfa72908b,Windows Server 2016,118.181.8.25,098505c9-141f-4de8-b869-5da2cd3b4e90,1,1,Workgroup,Axis,Rashel Archer,Internal
+FC9884e83f,Windows 7,35.40.42.203,0ac9b109-23ec-4e73-918e-7b08bf81dd5c,1.3,1,Workgroup,61468,Paulette Mccrae  ,Resourcers
+FC37208c3f,Windows Server 2016,46.16.192.214,0b3baa86-d134-4b6a-b299-2d9585fbf90e,1,0,Fomacose,Malawi,Rebeca Broadhead  ,CXD
+FCb213fa59,Windows 10,148.5.56.124,0d479ef7-d23b-4d5f-b77b-45624d098be8,1,0,Yolocosa,Christmas Island,Baltazar Mccoy,CXD
+FCf25ec1ab,Windows 7,226.124.190.246,0de7285a-5174-42dd-91f4-6ecf72e157e1,1.3,0,Contaso,23404,Emerie Culbreath,CXD
+FC5ca1d87d,Windows 7,137.112.69.196,0eb35a80-bd62-4ce8-9c06-be82bb9542fb,1.3,0,Workgroup,Oakes,Elmira Dameron  ,Internal
+FCbe7a3356,Windows 10,102.13.195.60,10a44832-7572-43e2-a1b8-a67ab8fae665,1,1,Workgroup,45801,Geralyn Wegener  ,CXD
+FCbe89a850,Windows Server 2003,240.247.179.47,10c8dba9-ad89-4cc9-9ca1-79e8cb6b2592,1.3,0,Workgroup,94577,Kristie Mundo  ,Internal
+FCc9d5dcdd,Windows 10,83.113.149.114,118de98f-f5c9-4570-8a7e-c1a0ac1139fd,1,1,Workgroup,16242,Martin Oliverio  ,CXD
+FC3c23ad0b,Windows 10,150.2.115.187,11a52dae-b659-4bc8-aab7-fab956316ec7,1,1,Contaso,30165,Karol Benford  ,Internal
+FCef5a6d2f,Windows Server 2003,63.81.49.143,11ee8a22-58b9-472b-bdb7-97d5bc45369e,1,0,Workgroup,Riverview Estates,Chassidy Bias  ,CXD
+FCe0cdfc2a,Windows 10,42.109.147.36,1232a712-c94d-4412-93c2-f17eb262cd1d,2,0,Yolocosa,Serbia,Rupert Mcmonagle  ,CXD
+FC7cc63639,Windows Server 2003,225.248.222.66,126914f1-15d1-49d9-99fb-81fac50b54a7,1.3,1,HomePC,Christmas Island,Kris Kornegay  ,Resourcers
+FC4a7e4e7d,Windows 10,35.238.68.172,12aabfcb-f56a-448d-a100-64356f15cb8b,2.2,0,Montoso,Mount Prospect,Shonda Timmons  ,Internal
+FC53a9c347,Windows 10,180.54.175.204,12e4af96-72c3-49cc-bde1-c5a1b3b106bd,1,0,Workgroup,Ban Mai,Rosita Chill  ,Internal
+FCdefdd892,Windows Server 2003,152.198.49.77,13170597-5fd5-4fbc-8ddf-953d224f578c,1.3,1,Workgroup,Nikiski,Christiana Temblador  ,CXD
+FC656dc13b,Windows 10,197.151.138.215,1318db9f-e02e-40e7-94c0-e5f52d32b7f0,2,1,Workgroup,Ban Suan,Ian Smothers  ,Internal
+FCc1e9b994,Windows 7,22.165.195.158,136b725d-0c14-44a7-9640-b0c6ebb3793f,1.3,0,Workgroup,Silas,Thao Madril  ,CXD
+FC97b851b3,Windows Server 2016,220.209.242.59,13f0aebf-3a8a-437d-9625-a2bfbed13ad2,2.2,0,Workgroup,84535,Leonida Lindberg  ,Internal
+FC7725443f,Windows 10,2.239.217.185,148b1e51-0b69-4cad-bf3f-9fc825f63cda,1,1,Workgroup,30683,Yevette Ohlinger  ,Resourcers
+FC1b639fde,Windows Server 2012,202.64.165.223,14f4297d-571f-4177-9217-141d7aff5cdb,1.3,1,Montoso,Riverview Estates,Vivian Karner  ,CXD
+FC466bb193,Windows Server 2016,124.228.104.31,15224f69-8b41-436a-8998-24ab69af8ab7,1.3,1,HomePC,Serbia,Javone Solomon,CXD
+FCf448fa93,Windows 7,38.88.159.252,159c033d-b303-4535-bf8c-fbee5a5724ef,1.3,0,Workgroup,2557,Heston Finley,CXD
+FC2e357559,Windows Server 2003,218.51.132.237,1620250f-133e-4637-99d0-5d49410acd35,1,0,Fomacose,Canada,Gene Ahern  ,Resourcers
+FC3576b02f,Windows 7,56.220.75.210,16aced46-2048-4e19-8194-83f1cce5c0e9,1.3,0,Workgroup,41833,Mariko Klemme  ,Internal
+FCbdbf7db4,Windows 7,118.60.209.243,16e9516b-ab50-4264-9dec-5fb3a7260ade,1.2,1,Workgroup,Stockbridge,Carmel Corry  ,CXD
+FCc5635217,Windows 7,48.56.123.209,177ecbd3-ed41-465b-bde5-9036808f0746,1.3,0,Fomacose,Serbia,Olene Keeling  ,CXD
+FC10e3837b,Windows Server 2016,115.72.230.27,18255cb3-e834-4973-a70a-dba7ec243e2b,1,1,Workgroup,59923,Derek Knipe  ,Outsourcers
+FC4671a3f2,Windows 7,143.158.141.133,184c4edd-2b5a-4860-b055-f0ad9642c662,1.3,1,Dev-Contiso,San Jacinto,Berta Smullen  ,Internal
+FCe4b6292c,Windows 10,144.106.70.91,18637bb5-08a4-4172-92b8-30dc09128a1b,1,0,Workgroup,North Chicago,Chadwick Mousseau  ,CXD
+FCa914a603,Windows Server 2016,179.106.49.234,19962456-db21-458b-aa9e-83c70b3906d3,2.2,0,Workgroup,Khao Thaung,Karol Benford  ,CXD
+FCad34216a,Windows Server 2012,46.2.49.152,19b7af02-cfa9-4f6f-916a-f61a55688e6c,1.3,0,Workgroup,28610,Solange Gerson  ,Outsourcers
+FC8ae4181b,Windows Server 2012,25.40.242.242,19fd8182-e8ce-48f1-9743-2930b3a94b6b,1.3,1,Workgroup,Mount Prospect,Renetta Detty  ,CXD
+FC77fa8f3a,Windows 10,253.127.105.197,1ab9b673-c4fd-490c-9948-798d1b6de3b5,1,1,Workgroup,Ban Khaem,Audrea Cravey  ,Resourcers
+FCb015f9b6,Windows 10,131.189.132.147,1b637009-65a5-473d-9637-010a833f9c16,2.2,0,Montoso,Nong Lub,Mariafernanda Rossi,CXD
+FCd741315f,Windows 10,145.82.16.236,1bed7b4b-1c25-4323-b0e1-27263a418f5f,1,0,Workgroup,51550,Judith Loera  ,CXD
+FC5d976dce,Windows Server 2016,113.249.194.57,1c195c52-200f-4825-acff-afc28481ba71,2.2,1,Workgroup,77880,Towanda Bevacqua  ,Internal
+FC72c2b683,Windows 7,228.127.152.250,1c62f360-2dec-443e-bcc5-e4497205d00b,1,1,Fomacose,Philippines,Daniil Quigley,Resourcers
+FC54a67cfc,Windows Server 2016,90.220.58.214,1cfb5510-d112-49d4-bef4-d6fd893fe460,2,0,Contaso,Stockbridge,Hiroko Dyson  ,CXD
+FC3a4982ed,Windows 10,53.58.142.41,1d22f66d-fbd3-4d9c-b966-a94ec659284c,2.2,1,Fomacose,Hungary,Carmel Corry  ,Internal
+FCde5e518e,Windows Server 2003,123.2.178.229,1d9ceb82-3afb-4144-b544-0eee3634e079,1.3,1,Workgroup,Ban Pong,Vicenta Rosse  ,Resourcers
+FC9fcfc63f,Windows Server 2016,111.113.245.194,1df0c810-24d7-4bdb-8229-422c0440a433,2,1,Montoso,Ban So,Melvina Weston  ,Resourcers
+FC5816d92a,Windows XP,159.147.213.141,1e8b4d24-8c5e-4190-9aff-a1edcecc53e5,1,0,Contaso,19967,Gene Ahern  ,Internal
+FC8368930c,Windows 7,98.6.116.173,1ec8285c-4a47-4bdc-8f25-1dfd6c3ef2b1,1.3,1,Contaso,53406,Towanda Bevacqua  ,Resourcers
+FC141cb316,Windows Server 2016,172.152.191.242,1ef25c59-3419-4b28-b146-ecf8d0c52b02,2.2,1,Fomacose,Latvia,Kristan Barnum  ,CXD
+FC890e62c0,Windows Server 2016,239.127.113.45,1f190661-7678-4e8b-b32a-e6df62d0e31b,1.2,0,Workgroup,55796,Alejandra Hermosillo  ,Outsourcers
+FC54d901de,Windows 10,243.222.179.176,1f768252-dcad-48ee-80a0-eb7fc2987ff1,2,1,Workgroup,32202,Fran Penniman  ,Internal
+FCe1036c6f,Windows Server 2012,163.30.47.31,1fb416a2-e496-44d4-961c-f0761ff8c8c1,1.3,0,Workgroup,10102,Nichol Mathison  ,Outsourcers
+FCe73bbd22,Windows 7,51.120.67.136,1fba50d8-10b2-4d70-841f-6ae5e2f7c952,1.3,1,Workgroup,62452,Bob,CXD
+FC8a7ecb0e,Windows Server 2012,55.106.7.26,20b2366c-1f0a-4534-bc99-9348a9d8918e,1.3,1,Fomacose,Wallis and Futuna,Karisa Holaday  ,CXD
+FC607c5d67,Windows Server 2012,84.127.54.132,20ddfcf8-06e4-4202-94be-45a38981e1b8,1.3,0,Workgroup,99687,Charlotte Locust  ,Internal
+FCb1fdf265,Windows Server 2016,70.149.38.232,214b92e1-da87-4fd0-a74c-42a5585f7b3d,1,0,Workgroup,20535,Erminia Lepore  ,Outsourcers
+FCa970167c,Windows Server 2012,43.50.198.223,217cf6c7-3ff0-4de0-8458-9a3b1ee130aa,2,1,Workgroup,7882,Loralee Oshaughnessy  ,Outsourcers
+FC0afafae6,Windows Server 2012,183.121.13.82,21a31cd5-4192-4456-b565-ded9fbbf2269,1.2,0,Fomacose,Iran,Season Banda  ,CXD
+FC35819640,Windows Server 2012,178.6.83.30,22fb5197-515f-4e71-82ab-3b891231454e,1.2,1,Fomacose,Cuba,Charlette Gatewood  ,CXD
+FCa9e2b20b,Windows 10,154.114.88.145,23cd46ba-a89a-498b-85ab-029e23c1b372,1,1,Workgroup,Chum Seng,Avantika Dodge,CXD
+FCda806778,Windows Server 2016,16.73.86.116,2426434f-245a-4c17-84d6-d5f3f94de85d,2.2,0,Dev-Contiso,Makaha,Leonida Lindberg  ,CXD
+FC8c505a28,Windows 7,66.13.218.173,246d183b-f22c-4c13-9498-2aae3247359d,2,0,Workgroup,93450,Kimi Oyler  ,Resourcers
+FC09ecc625,Windows Server 2016,65.238.116.34,2518f7f2-29e9-450c-bca9-3f282930f367,1,1,Workgroup,40160,Krissy Wines  ,Outsourcers
+FC718f3566,Windows 10,109.196.125.191,25403cf4-fbed-4ba3-91e3-e1c2585c8bfe,1,0,Fomacose,Belize,Heston Finley,Internal
+FC2cc18c64,Windows Server 2003,144.32.95.190,256dfd73-0e6d-4ed6-a067-b48fc19211ca,1.3,0,Workgroup,56308,Amber Klingensmith  ,Outsourcers
+FCf4c8543b,Windows 10,30.176.113.118,258bd2d8-65d4-4e94-8213-6e2a85f9e2e6,1.3,1,Oldcompany.com,San Marino,Karen Deleon,CXD
+FC1cf9bc1a,Windows 10,233.234.166.45,259e7be9-fd48-4224-8dbb-bd25e22efe04,2.2,1,Workgroup,Rhame,Alyse Fountaine  ,Outsourcers
+FCfb5ec671,Windows Server 2016,63.189.120.217,25faf704-8179-47d0-b6f8-7894fe37c10c,2,1,Workgroup,94577,Christiana Temblador  ,Internal
+FCe940a18e,Windows Server 2016,14.88.44.172,271024b4-12e0-4d28-b7b5-e3d07fd277fe,2,0,Dev-Contiso,Union Hill,Jerilyn Flegle  ,CXD
+FC8193b588,Windows Server 2016,171.33.174.97,2711284c-8b53-4405-a737-534c23783c11,1,0,Contaso,Pemberton,Yoko Thon  ,CXD
+FC6e7e2f38,Windows Server 2016,147.63.155.197,278af41d-4c81-42af-9ad8-dcab17a51833,1,0,Workgroup,Naung Kuk,Elmira Dameron  ,CXD
+FCa1cfc7e0,Windows XP,187.85.159.175,2840de6d-477d-498c-b87a-823f05536afd,1.3,0,Fomacose,Ban Yang,Chassidy Bias  ,CXD
+FC7e222ab8,Windows 10,71.116.177.184,2a61fad9-2397-4a99-a4c9-a0eb8955a955,2,0,Workgroup,Tunica,Stephen Ellington  ,Resourcers
+FCecbf7a2a,Windows Server 2012,70.110.76.51,2aeaa8a2-1d33-44bb-9b49-ef4b72576e06,1.3,1,Fomacose,Maldives,Tyisha Otten  ,CXD
+FC1c664912,Windows Server 2012,102.182.191.75,2bd9089c-3d67-4f97-9aac-4e4a3241df54,1.3,1,Workgroup,Cutlerville,Yoko Thon  ,CXD
+FCac8ec115,Windows XP,207.53.238.135,2bda04bf-09ef-48e4-899c-5fb772568f03,1,1,Workgroup,10954,Jack Sanders,CXD
+FC8fac071f,Windows XP,190.230.138.102,2c121ed1-923b-42af-8809-0479dee06daa,1.3,0,Fomacose,Kuwait,Rosita Chill  ,Resourcers
+FC048104ba,Windows Server 2012,150.20.147.43,2c770828-8c8a-457e-af11-8a6b22efe268,1.3,0,Montoso,Ban Pengchan,Tama Tolan  ,Resourcers
+FC53ac3787,Windows 10,203.104.145.175,2d0672a1-7831-403e-b7ab-d4a187224807,1,0,Workgroup,19480,Carroll Langlois  ,Internal
+FCce0833f0,Windows Server 2012,39.23.216.158,2d8cb43a-395a-4655-85a5-266bbb8143ab,1.2,1,Oldcompany.com,Christmas Island,Tomiko Bautista  ,Resourcers
+FC0a161f58,Windows Server 2016,130.1.222.16,2f688b6c-3169-41f0-b5f7-fdf944529cf8,2.2,0,Fomacose,Cyprus,Randa Sena  ,CXD
+FC34e0e027,Windows 10,23.10.163.81,3025a7bd-fe8e-4300-9be8-18d427965b0a,1,0,Workgroup,30728,Reagan Batten  ,Internal
+FC6db0ffaf,Windows Server 2012,93.231.168.175,302eb757-564f-4e6e-b441-15f35f8114a5,2,0,Workgroup,16849,Demetrius Burt  ,Outsourcers
+FCe3428536,Windows Server 2016,118.222.167.42,307dd9f2-66e6-484f-ba73-77f1093f801b,1.2,0,Workgroup,68816,Carlene Parkerson  ,Internal
+FC80d9c4c0,Windows Server 2016,95.36.243.171,308b0d1e-e31c-4220-ada4-db660c1e687f,1,1,Workgroup,77221,Olene Keeling  ,Internal
+FC9869c314,Windows Server 2016,149.0.65.147,314804d5-6a65-42ff-9c94-c530c18c160f,2,1,Workgroup,84518,Nancey Letsinger  ,Internal
+FCa844afdc,Windows 10,5.29.9.150,317d6ce7-5499-4d8c-9ac4-c353f4643ba5,1,1,Montoso,Ban Khoi,Jazmin Quarles,CXD
+FC2207fcb3,Windows 7,107.97.255.91,31984b7c-ef64-4c9d-b37b-4f7af69feb37,1.3,1,Workgroup,Loganton,Slyvia Randolph  ,Outsourcers
+FCacc34a0b,Windows 7,127.136.157.74,31a6f00d-3ccb-4a0c-aeaf-5cc550c2cc40,1.3,1,Workgroup,Makaha,Kimora Abernethy,CXD
+FCad5ca46f,Windows 7,50.229.93.90,31fcf44c-6933-4ff5-a95d-ef094ed7e59c,1.3,1,Fomacose,Turkey,Emilea Willie,CXD
+FCd41f2edf,Windows Server 2016,63.167.70.46,32370c77-ce8d-4d47-bd31-357c3f0b7977,1,0,Montoso,Ban Saeo,Thao Madril  ,Resourcers
+FC4f30f733,Windows 10,5.184.7.62,331fe471-2d8f-47e5-bc86-0bb749249861,1,0,Workgroup,Ban Uan,Gertude Avis  ,Internal
+FCae3733e4,Windows Server 2016,78.14.104.190,334a76b5-ae56-4f91-94bb-e522faff0616,2,1,Workgroup,88202,Carissa Duguay  ,Internal
+FCf4dbe482,Windows Server 2012,169.202.142.19,34c91ed4-e184-4e81-a608-a19f93f3625a,1.3,1,Contaso,62329,Jarrod Mcjunkin  ,Internal
+FC0cc63ee2,Windows Server 2012,208.207.218.66,35cbeba9-f58d-4f58-8b52-24afbf88b9e5,1.3,1,Oldcompany.com,Serbia,Mariafernanda Rossi,CXD
+FC8c964ed8,Windows Server 2012,49.136.226.195,35e34dc2-8680-4b7b-a5ad-6e3dbab52218,1.3,1,Contaso,Bowden,Mira Foerster  ,Resourcers
+FC6ccb9dee,Windows XP,26.168.110.236,36121bf1-b02b-4899-843c-b9160997a576,1,0,Workgroup,Bowden,Javone Solomon,Internal
+FC50017aaa,Windows 7,5.50.34.246,36fd17c7-cb31-4b50-bef2-354bdbc7c5a9,2,0,Contaso,78465,Claudia Bushard  ,Internal
+FC46a9e1f6,Windows Server 2012,201.125.142.192,37a5a9e4-029b-4319-9cef-d8c555b09ad3,2,1,Workgroup,Ban Thum,Porter Fenstermacher  ,Resourcers
+FC97bf72ff,Windows Server 2003,110.108.151.150,37b19b87-9708-47f1-af4d-418830948e21,1.3,0,Workgroup,70429,Season Banda  ,Internal
+FC5783d6ce,Windows 10,3.209.147.165,37e48818-74de-4562-9b26-120e005c247e,1,0,Workgroup,79061,Josh Blake  ,Internal
+FCee6924d8,Windows 7,65.244.42.200,37f1c912-1880-44d3-ae48-5944d270c4b7,2,0,Fomacose,New Caledonia,Jack Sanders,CXD
+FC92da4435,Windows 7,111.36.215.68,3a5cc9eb-9dcd-4feb-a01f-fde2c9edd63c,1.3,0,Workgroup,32202,Fran Penniman  ,Resourcers
+FC5fbd06fc,Windows Server 2016,51.191.191.62,3aa3fbbd-74ec-47f0-9e4e-dd0891345e74,2.2,1,Workgroup,Vienna,Geralyn Wegener  ,CXD
+FC4875d443,Windows Server 2016,106.72.78.49,3aeaca4a-2d8b-4be8-9eab-f990631c46b0,2.2,1,Fomacose,Swaziland,Jarrod Mcjunkin  ,CXD
+FCe2686c7e,Windows Server 2016,101.108.73.141,3c516785-29cd-4adf-91da-505ef4a69852,2.2,1,Workgroup,78646,Betsey Moorhead  ,Internal
+FC3e7f405b,Windows 7,143.117.69.143,3c7bc23b-c3e2-48bc-87e1-9514cfaaba27,1.2,0,Montoso,Ban Mai,Vicenta Rosse  ,Internal
+FC9db3bb18,Windows Server 2003,85.206.49.187,3d336175-1daa-4535-8c93-6b02c46f0ea4,1,0,Contaso,Hamilton Branch,Yesenia Brasier  ,CXD
+FCdbb02a87,Windows 7,229.59.114.24,3d537766-a918-439d-bf81-8bb8272d3053,1.3,1,Yolocosa,Algeria,Kristie Mundo  ,CXD
+FCadea6520,Windows Server 2003,36.229.142.63,3dfc305a-efbf-4958-8d8a-ebf0aa1db1a9,1,1,Workgroup,27857,Florene Alphin  ,Outsourcers
+FCb4b0b269,Windows Server 2012,151.65.145.178,3e07a852-442f-4f87-83ea-de5d8bc78c1b,1.3,1,Workgroup,Nong Lub,Mariela Howery  ,CXD
+FC70df497e,Windows 10,40.6.58.5,3e211971-3ea0-44ab-9bd6-8d891a8e7049,2.2,1,Fomacose,Ban Thum,Mariafernanda Rossi,Internal
+FCd793fcd2,Windows Server 2016,210.213.134.231,3e22c1e4-191c-4483-8ece-b5fc67d8f90b,1.2,1,Contaso,North Patchogue,Charlotte Locust  ,CXD
+FC9f6a27ba,Windows 10,176.10.179.11,3ea34ddf-ce9b-41a4-abdd-fb87a529a0d3,1,1,Dev-Contiso,Lena,Amber Fuselier  ,CXD
+FC7c0480ac,Windows 10,250.13.220.41,3f4e156d-8a4d-4855-a020-e0cfb3d440be,1,1,Workgroup,41833,Season Banda  ,Resourcers
+FCf9f442f6,Windows 10,185.220.58.212,3fa69fa2-d300-45ac-8bbe-16c14518e58e,2.2,1,Workgroup,10913,Carlene Parkerson  ,CXD
+FCb308dd92,Windows 10,34.166.235.111,4055f4c7-7a17-43e0-872e-49fead06507d,1,0,Workgroup,1341,Josette Haithcock  ,CXD
+FC0e2fbdca,Windows Server 2016,174.150.203.96,41cf391c-9576-4cf0-a44b-87b34b85e700,2.2,0,Workgroup,Ban Teteh,Shonda Timmons  ,Resourcers
+FC28c04ffd,Windows 7,27.104.158.67,41f7db9a-5925-42d2-be97-fa1a6c0e5d40,1,1,Yolocosa,Turkmenistan,Carolee Cripps  ,Outsourcers
+FC687ac24c,Windows XP,44.106.156.8,42be88a7-ce69-4698-a42e-c0cee037c429,1,0,Contaso,Rhame,Kyah Kimmel,Internal
+FC0a3a25bd,Windows Server 2016,143.121.45.254,42d63470-06b7-4dbe-bd2d-197a5987b6a9,1,1,Montoso,Ban Uan,Pearline Basham  ,Resourcers
+FCeea1891d,Windows XP,44.39.117.96,430d0f7f-3c2b-453d-b427-aebfe9729346,1,1,Workgroup,17935,Kimora Abernethy,CXD
+FCf5375a50,Windows 10,241.104.69.33,436d98ce-f114-40e4-82a7-7195484fe925,2.2,0,Workgroup,Ban Yang,Josette Haithcock  ,CXD
+FC207d27e4,Windows Server 2016,122.238.218.183,43c834c6-0142-4288-bbb1-4e542eb80748,1.2,1,Workgroup,North Madison,Antione Bergdoll  ,CXD
+FCd7e898b7,Windows Server 2012,156.240.157.73,4445e639-ac9a-46d8-b546-7c6015f52689,1.3,0,Workgroup,60176,Yun Pauly  ,Outsourcers
+FC9d41bfa9,Windows Server 2012,215.35.15.121,4507667c-acea-43a4-89ed-3b08884a549c,1.3,1,Workgroup,Sa Marhua,Jazmin Quarles,CXD
+FCcf048cda,Windows 7,31.51.6.128,451917ba-6327-4c55-8faf-f5763688370f,1,1,Fomacose,New Zealand,Pearline Basham  ,CXD
+FC11384887,Windows 10,100.148.62.113,45bf0494-dde2-49ca-b437-76fd0aad6649,2,1,Workgroup,55796,Roseanne Cluff  ,Outsourcers
+FC4260cc90,Windows Server 2016,204.150.168.112,461de4f6-b868-4cea-a86a-ce1184c4aa26,2,0,Contaso,30823,Melia Normandeau  ,Outsourcers
+FC6ba6396e,Windows 10,50.170.174.246,46a86e6c-7ac6-4b70-a6cb-49b50aff66fd,1,0,Oldcompany.com,Algeria,Kimora Abernethy,Internal
+FC8c4ba9e7,Windows Server 2012,244.93.83.139,47063029-4fef-42cf-b8a1-e0754f1b57c4,1.3,0,Fomacose,Ethiopia,Riley Kimmel,CXD
+FC28a8c3c1,Windows Server 2016,211.3.97.144,470b582a-1f42-461c-a505-fa8df3d65841,2.2,0,Oldcompany.com,Botswana,Norine Matsumoto  ,Resourcers
+FC12d1391b,Windows Server 2012,132.233.206.107,47a49d7a-51fc-4488-8475-e2de1615b3c7,2,0,Montoso,Nam Chieu,Towanda Sweitzer  ,CXD
+FCc5c782cb,Windows Server 2012,2.195.87.149,4889852a-aba7-46fd-b526-262c6f072622,2,1,Workgroup,Ban Dong,Avantika Dodge,Internal
+FC3a1270cd,Windows 7,35.120.251.168,48b681ac-3753-410d-a666-de6605bcd3bc,1.2,1,Yolocosa,San Marino,Tama Tolan  ,Internal
+FC5733fd3a,Windows 10,141.241.150.143,499c24b3-d521-4257-9d9b-d8b23a65b88a,1,0,Dev-Contiso,Axis,Danial Olivero  ,Internal
+FCfd6c170b,Windows 10,106.212.192.75,4a1a53ee-b302-4f8f-acff-9d521fffb018,1,1,Montoso,Boligee,Carmel Corry  ,CXD
+FCe50dc1fb,Windows Server 2016,178.156.9.178,4a208fd2-aa19-4c40-a08d-47c3ac627901,1,0,HomePC,San Marino,Avantika Dodge,CXD
+FC66af3a9c,Windows 7,61.114.132.176,4a2dc1ac-aaf7-4eb5-84eb-a1022aa8a8cf,1,0,Oldcompany.com,Wallis and Futuna,Sylvie Kissner,Internal
+FCbade0de3,Windows 10,153.185.147.60,4a7b48b5-6924-4705-8c61-9721c934da77,2,0,Contaso,38068,Leonor Merrit  ,CXD
+FC6eb091a2,Windows Server 2012,113.33.93.174,4aec6c04-1995-4290-951c-92c75aaffb8b,1.3,0,Montoso,Howard City,Mariko Klemme  ,CXD
+FC1875c2e3,Windows 7,186.107.95.116,4b25a260-9f6a-4137-96ed-eacd7869712b,2,0,Oldcompany.com,Vietnam,Mckinley Krajewski  ,Outsourcers
+FCa6e3873a,Windows Server 2016,93.255.90.151,4c074725-5039-4cc5-97af-4699ab317503,1,1,Fomacose,Ecuador,Ellamae Hensley,CXD
+FC4a3693e3,Windows 7,20.239.151.93,4c621944-cbd9-4ddf-8e85-b4e59f26023f,1.3,0,Workgroup,16428,Phuong Reimers  ,Internal
+FC8dc0880d,Windows Server 2016,219.152.60.155,4eb243a0-1899-439f-b372-18e21fd71390,2.2,1,Montoso,Ban Klang,Karen Deleon,Resourcers
+FC0c13b331,Windows 10,11.175.191.234,4eeacab1-ee2e-4844-919d-c8ad90784743,2,0,Workgroup,San Pedro,Lashunda Kaelin ,Outsourcers
+FCb1ace8e8,Windows 10,5.15.18.26,4ef67043-3fd9-42b5-8b87-5c8773494fbf,2,0,Fomacose,Macao,Karen Deleon,CXD
+FC142adc48,Windows 10,62.213.186.138,4f713382-e989-42ff-8f6d-672d7c3133cc,2.2,1,Workgroup,55974,Violeta Kleiner  ,Outsourcers
+FC62aa3607,Windows 10,16.252.241.109,4feb65b0-99bf-45d6-bb29-cfe35ad6116c,1,0,Fomacose,Spain,Yoko Thon  ,Internal
+FC91e56e02,Windows Server 2016,118.93.254.78,5049aded-3da4-4966-9b28-41f191b52703,2,0,Workgroup,Loleta,Melvina Weston  ,CXD
+FC806b1ef5,Windows Server 2016,232.10.85.103,506f8955-523c-4fad-b88a-1574e812c572,1,0,Workgroup,16242,Helga Cantrell  ,Outsourcers
+FCc19eb0e3,Windows 10,141.157.138.247,509f227e-5b9c-4c5d-97e5-3a27adcff7b6,2.2,0,Dev-Contiso,Lakemoor,Karisa Holaday  ,CXD
+FCf770e76c,Windows 7,97.226.94.210,5109899b-21b5-49b1-bd37-e07a0ac99649,2,1,Dev-Contiso,Lake Meade,Yevette Ohlinger  ,CXD
+FC1404a627,Windows 7,251.146.127.132,5192a9f2-821c-47c0-ab60-4c0d9fa17ae7,1.3,0,Fomacose,Chum Seng,Marica Simone  ,Outsourcers
+FC0ce15e34,Windows Server 2003,114.189.177.52,51c30086-115b-4574-ad6c-37f4d15c7ac8,1,1,Workgroup,60176,Stefania Lunceford  ,Outsourcers
+FC1dc4bdf5,Windows 7,115.154.250.73,524a2ca3-9db2-43b1-b547-51ed990c2961,1.3,0,Workgroup,57467,Vasiliki Oneal  ,Outsourcers
+FC03ffb929,Windows Server 2016,192.22.122.7,5371ad94-7b12-4b5a-80cb-394723976787,2.2,0,Contaso,Silas,Raizy Sherrard,CXD
+FC762a6945,Windows Server 2003,44.175.85.237,53947bbe-9ac8-4953-9221-6cd8871cdb12,2,0,Montoso,Ban Erawan,Jack Sanders,Internal
+FCbbb75a2f,Windows Server 2003,207.99.229.157,540c8180-55f7-4120-94a2-1da6cf76b305,1.3,0,Workgroup,74753,Jamika Bias  ,Internal
+FC1080cc67,Windows 7,125.187.203.211,548a36e2-f3ec-4e21-8465-b28d64fb553b,1.3,1,Dev-Contiso,San Pedro,Renna Cavalier  ,Outsourcers
+FC1aae3301,Windows 10,46.59.47.147,54e8bdca-1e82-4b43-86d0-ecdf98568ee4,1.3,1,Montoso,Ban Chang,Lakeesha Rickett  ,Outsourcers
+FC46d831f2,Windows Server 2003,128.70.145.30,5514960b-8948-43d8-a32b-93ac22f7fbd4,1,0,Workgroup,Ste. Genevieve,Daniil Quigley,CXD
+FCb2c71b67,Windows 7,131.78.243.229,5547eefd-77f1-4da8-a855-a171ef7afbe8,1.3,0,Workgroup,North Patchogue,Arrianna Mccullough,CXD
+FC5b68fce4,Windows 10,253.210.27.142,56a39100-a585-4609-973b-5f42db69ae16,1,0,Montoso,Cabon,Kris Kornegay  ,Internal
+FC824f1174,Windows 10,227.237.16.251,571f6fca-16cb-4bbd-94ce-f0192529f8ef,1,0,Workgroup,South Heights,Kristan Barnum  ,Resourcers
+FCd6f1a8e7,Windows 7,149.82.33.2,572f4ec4-ea9a-476a-9b3e-007e7df42a7b,2,1,Workgroup,69168,Marjorie Jordison  ,CXD
+FC76cd64e4,Windows 10,57.161.97.112,5872c5c1-84dd-48a3-994e-c95041b1cd7d,1,1,Montoso,Ban Phai,Jarrod Mcjunkin  ,Resourcers
+FC14c80f26,Windows Server 2016,192.153.250.215,58d765f6-8546-41b3-9a1d-86fc425bc010,2.2,1,Workgroup,83606,Chun Gleaton  ,Internal
+FCe1813f37,Windows Server 2012,221.130.10.136,59000a33-0cf1-4985-9ca6-9215e228af19,1.3,0,Montoso,Ban Ngiang,Shawna Vancleve  ,Resourcers
+FC031c1038,Windows Server 2016,139.193.227.121,591e1500-0bd4-492c-a01c-ed66e24e9869,1,1,Fomacose,Dominican Republic,Ernestina Hamlett,CXD
+FCed749083,Windows Server 2016,69.133.51.189,59a4f585-870c-4f8d-a700-9f36ed6fa01f,1,0,Workgroup,Ruidoso Downs,Sylvie Kissner,CXD
+FC99e84eb8,Windows Server 2003,10.88.251.178,5a5d9ae8-360d-456d-a484-cb0895f1f8e8,1,0,Workgroup,94547,Dione Stanger  ,Internal
+FC0733d786,Windows Server 2012,178.106.184.48,5adff8bb-3718-4690-b418-cd552e696121,2,1,Montoso,Churchill,Christiana Temblador  ,Resourcers
+FCc4594f68,Windows 10,216.192.193.185,5ae93070-9bc0-4404-85c8-30907ac829a2,1,1,Workgroup,93450,Kenyatta Jorge  ,CXD
+FCfe35fed2,Windows Server 2003,150.206.8.146,5b610370-b44f-4166-8aa2-1664ad6fc71b,1.3,0,Workgroup,56720,Julene Tome  ,Outsourcers
+FC0d162f36,Windows Server 2016,42.214.185.251,5bcf13c7-5b2d-4c92-b8d5-0311093e4e37,1,0,Dev-Contiso,Oacoma,Jenette Kuehn  ,CXD
+FCd8659fdf,Windows Server 2016,106.74.182.214,5c01fc4a-429d-4cf7-82d8-dfad81b0acc6,2.2,0,Contaso,78257,Richard Costales  ,Internal
+FC2819ab91,Windows 10,184.220.170.62,5c8dca20-b825-4ecc-bb2f-ef5ee51822ab,2.2,0,Yolocosa,Monaco,Kirstie Puma  ,Outsourcers
+FCcf5e9f3a,Windows 10,71.213.251.215,5cbf2936-d669-4492-ac6d-390d19adae69,2.2,1,Workgroup,19967,Kory Launer  ,CXD
+FC66888480,Windows Server 2003,80.118.227.87,5d6224d4-4a77-40e4-a40e-427bb6d5daaa,1.3,0,Contaso,13613,Cleopatra Silverberg  ,Outsourcers
+FC5340ba25,Windows XP,112.125.197.250,5d7eaceb-8456-486f-b098-ff2240e62157,1,1,Workgroup,10102,Mira Foerster  ,Internal
+FC67828fb1,Windows 10,222.37.63.68,5dcac008-7b36-45b6-bcec-211203145d28,1.3,0,Oldcompany.com,Svalbard & Jan Mayen Islands,Jazmin Quarles,Internal
+FC82fb9dfc,Windows 7,95.86.235.203,5dcc5a88-339a-4a25-8492-1d14cb436ed1,1.3,1,Contaso,67837,Olene Keeling  ,Resourcers
+FC96019b2a,Windows Server 2016,194.185.148.29,5fe2d568-eb8d-4e65-b3fb-d3f4b2d15421,1,1,Fomacose,Ban Talung,Leonida Lindberg  ,Resourcers
+FC339faec4,Windows Server 2016,205.123.78.59,607a2a92-0ba3-4878-b8fa-1a20e714c343,2.2,0,Workgroup,49119,Stella Deyo  ,Outsourcers
+FC0752cc22,Windows Server 2003,193.248.67.74,60864bb3-5cb9-4dc2-8c88-cef142e25837,1.3,1,Montoso,Ban Khamong,Pamela Bailey,Internal
+FCa6ecd7c8,Windows 10,229.179.234.168,610085c1-dbfa-4c4f-9e9e-950d8d145db4,1,1,Contaso,74574,Alice,CXD
+FC8bf4bde0,Windows Server 2016,200.116.228.208,613299ea-73e3-4790-8819-9c5916ae25a5,2.2,0,Workgroup,1341,Divina Cahill  ,Outsourcers
+FCc8c6703b,Windows Server 2003,138.70.152.29,622a5512-ae6e-4638-bb0c-cb33e6736a4f,1,1,Workgroup,Ban Pae,Celina Wormley  ,Resourcers
+FCe51ad05b,Windows Server 2003,187.106.242.114,6233cb07-bf20-467e-a37b-63bb656f7f04,1,0,Workgroup,50675,Sharonda Leatherwood  ,Outsourcers
+FC6d6a559f,Windows Server 2012,104.118.170.140,624a4229-42fe-4b09-9e21-7da466ad758a,1.3,0,Workgroup,85015,Tyisha Otten  ,Internal
+FC4ef70b0e,Windows Server 2016,74.27.194.250,63040c58-1f9c-4e12-ba53-34c3f9237a21,1,0,Montoso,Ban Kalum,Emilea Willie,Internal
+FC133b4538,Windows Server 2016,254.142.145.125,63bb0646-eb51-44c8-96f0-83dea0330448,1.2,0,Workgroup,Ban Khoi,Emerie Culbreath,Internal
+FC1c15ea03,Windows Server 2012,172.100.73.104,641debe2-7e82-41f1-80cf-822941ca4266,1.3,0,Workgroup,10913,Alvera Heasley  ,Outsourcers
+FC5ca7b3a4,Windows Server 2016,200.117.97.45,64e505c5-0f13-4433-a553-ab1f8dab585a,1,1,Contaso,93654,Renetta Detty  ,Internal
+FCfb06f8ef,Windows XP,199.193.156.67,6559d14d-8a20-41de-899b-109740385a41,1.3,1,Montoso,Lahan,Mariko Klemme  ,CXD
+FCedb1d8d3,Windows XP,13.38.12.32,656836f3-2701-42df-a64e-9811704c296a,1,1,Dev-Contiso,Taneytown,Veronica Park,CXD
+FCb81abf8b,Windows 10,40.101.101.172,65c7a66b-d1f8-4d9e-a8e8-bccf9bf3cc8a,2,0,Workgroup,16942,Audrea Cravey  ,CXD
+FC2defe104,Windows 10,155.103.100.81,665bcf50-55a6-4b53-925d-3f9bbacc3f7f,1,1,Workgroup,2557,Hiroko Dyson  ,Internal
+FC8cf3e9a0,Windows Server 2003,82.78.213.198,6662ef38-9c95-4d50-a66d-ec0f00ae110c,2,1,Oldcompany.com,Belgium,Carissa Duguay  ,Resourcers
+FC7e38820d,Windows Server 2016,182.190.135.200,67445f66-2967-40c3-8179-fab8be56a659,2.2,0,Workgroup,Ban Chang,Ernestina Hamlett,Internal
+FCb8e86e78,Windows 10,163.166.95.41,677da06c-6ab9-40c7-b598-dc73dd6f4371,2,0,Dev-Contiso,Diamond Ridge,Corine Thomure  ,CXD
+FC90264080,Windows 10,128.82.155.70,67811a71-e108-44a1-a185-0e246b2fa0be,1,0,Workgroup,Lake Meade,Carroll Langlois  ,Resourcers
+FC5e52eee2,Windows 7,99.13.6.121,6878e16b-adf8-471e-88e0-16d5802bc747,2,0,Workgroup,40160,Brandie Higgins  ,Internal
+FC1a5c10b6,Windows Server 2016,88.152.157.58,690e3bbf-ab34-4d79-8f49-28807c18f53c,2.2,0,Workgroup,Boligee,Corina Greg  ,Resourcers
+FC4411f5a5,Windows 7,3.249.19.165,69518b38-d392-4a01-bdbe-349e6b27b12a,1.2,1,Fomacose,New Caledonia,Kizzy Astudillo  ,Internal
+FCf665a26c,Windows Server 2016,200.42.12.209,69f9f83c-3774-4570-9b7b-99530432095d,1,1,Montoso,Ban Mai,Baltazar Mccoy,Resourcers
+FC8951a0db,Windows 7,70.30.171.94,69ffe5fe-6813-43a9-9aba-63110c4166fb,1.3,0,Montoso,Ban Mek,Chun Gleaton  ,Resourcers
+FC76a42ddc,Windows 7,192.168.204.24,6a197052-3664-485a-8943-1a422ce8e3dc,1.3,1,Workgroup,49119,Yesenia Brasier  ,Resourcers
+FCcd61872c,Windows Server 2012,153.122.244.125,6a8593e5-c5d0-4fc3-9777-54fd917b7a51,1.3,1,Workgroup,Lakemoor,Kizzy Astudillo  ,CXD
+FC84e5fdbf,Windows 7,82.49.78.82,6aedea7a-5fca-4c47-89fe-b4101b11c8e6,2,0,Workgroup,79061,Lorena Remaley  ,Resourcers
+FC45004df0,Windows 10,46.229.130.130,6b31c0a6-df02-4bb6-9170-d23a736c0f7e,2.2,0,Contaso,51350,Missy Stec  ,Internal
+FCdc8109bd,Windows Server 2012,171.199.60.143,6be51c16-1e02-4217-84b3-960237af014c,1.3,1,Workgroup,17935,Gerald Larkins  ,Outsourcers
+FCfbf899bb,Windows 10,193.159.169.176,6c2d60a6-b091-44e6-839f-5e0eddfc03f8,1,1,Workgroup,Oacoma,Lashaunda Spang  ,CXD
+FCe534651e,Windows Server 2012,85.224.124.153,6cbe1fe6-b4d3-455c-8685-90062e237587,1.3,1,Fomacose,Vietnam,Vicenta Rosse  ,CXD
+FC5d3302ba,Windows 7,228.58.48.153,6cf288a6-7bd4-4991-b15b-e0a87faf7385,1.2,1,Contaso,56308,Elvina Tabor  ,Internal
+FC8b74f512,Windows Server 2016,209.68.39.250,6d4b90dc-1e15-4537-be99-1f4812ff512e,1,1,Workgroup,16849,Chanel Culwell  ,Outsourcers
+FC9bef8fd2,Windows XP,114.174.25.72,6e263a86-3cef-4101-9427-199e0135aac9,1.2,1,HomePC,Mayotte,Charlotte Locust  ,Resourcers
+FC4fc9fa12,Windows Server 2016,191.101.207.217,6fb3996a-1552-49d7-bbf3-a91e33c938fa,1,1,Montoso,Ban Thung,Tyisha Otten  ,Resourcers
+FCe9010740,Windows 10,91.33.251.203,6fc38b84-393d-42a6-b011-4ead5100de74,2,1,Workgroup,23404,Rashel Archer,CXD
+FC8035d9e6,Windows 10,214.152.95.175,70a4de2a-6f74-470f-a245-bf5a4bed82a4,1,0,Workgroup,Melbourne Beach,Eryn Battiste  ,Resourcers
+FC97c29ec0,Windows 7,82.91.181.130,70e2611c-8cc0-4443-b82f-cf24e3745440,1.2,0,Workgroup,Ban Rai,Elmira Dameron  ,Resourcers
+FCb154e815,Windows 7,74.11.113.51,726680bd-d110-4c7e-9d1c-2f64158d72ac,1.3,1,Workgroup,50568,Raizy Sherrard,CXD
+FCc0f8b58f,Windows 10,238.118.60.148,72938b9f-e4dc-475e-af31-032080309a59,1,1,Fomacose,Pak Nam,Quintin Schlueter  ,CXD
+FC64f7977a,Windows 10,176.76.16.190,74cad7a5-583e-4752-ba29-6cf7dcda2b43,1,0,Dev-Contiso,Vienna,Vivian Karner  ,Internal
+FC720d3bcf,Windows Server 2012,224.16.213.175,7536f4be-3298-460f-b358-20694c8182fa,2,1,Workgroup,Cabon,Danial Olivero  ,Resourcers
+FC0008d32e,Windows 10,194.224.24.217,75f785ab-a782-447e-99e7-e67b30a02d06,2.2,0,Montoso,Bella Vista,Kum Roff  ,Internal
+FCfcf28d9c,Windows Server 2003,134.164.218.238,7657cff0-3bf1-47c9-982c-5e35d32c711f,1.3,1,Dev-Contiso,Annawan,Amber Fuselier  ,Internal
+FCcd81fecb,Windows 7,215.104.106.178,77235806-eac0-4528-99c4-0e76a149a2b3,1.2,0,Workgroup,88202,Porter Fenstermacher  ,CXD
+FC10eb4524,Windows Server 2016,186.144.30.205,7778b1d1-af1b-49a8-8cc5-799d673ace6e,1,1,Workgroup,Ban Pengchan,Geralyn Wegener  ,Resourcers
+FC97e177b8,Windows Server 2012,147.209.70.61,778987a2-4cf7-4ca1-9548-2822b78113f0,1.3,1,Oldcompany.com,Monaco,Mira Foerster  ,CXD
+FC660d0c61,Windows 7,245.162.23.52,7818c113-0b0e-489f-8ce2-344340c74e09,1.3,0,Workgroup,43359,Alice,Internal
+FCc0061210,Windows 10,185.29.162.148,78b8320a-2b8a-4f4d-b1f3-eb3a3c8734a4,1,0,Fomacose,Zambia,Vicenta Rosse  ,CXD
+FCb51aea57,Windows 10,255.36.110.119,78cbff8b-dce7-4300-a38d-96d966ce4e57,2.2,0,Workgroup,Ban Sanchao,Jarrod Mcjunkin  ,CXD
+FCfffc5c35,Windows 10,224.183.235.94,79e9c09d-bc81-4197-b0b2-d30d27bd2663,1,0,Contaso,20535,Thao Madril  ,CXD
+FC13307189,Windows Server 2016,70.128.77.192,7a57fe20-6fd0-4ae8-837e-5028659f2d67,1,1,Workgroup,69168,Celina Wormley  ,Internal
+FCf401b97b,Windows Server 2016,207.52.127.63,7b993ac1-6a37-4345-a52b-de06f0958b45,1.2,0,Montoso,Ban On,Carlene Parkerson  ,Resourcers
+FC45ee4049,Windows 10,124.15.183.21,7dcd2602-0166-427a-8460-f38840d2a5e8,1.3,0,Montoso,Ban Khon,Lorena Remaley  ,Internal
+FC45993dae,Windows Server 2016,113.151.205.83,7dfc6156-bd5f-4938-a792-64c0a7aa58be,2,0,Workgroup,Ban Erawan,Veronica Park,Internal
+FC575a1b6c,Windows 7,103.92.96.253,7ee38ea8-2738-47fd-b69e-3ed6556f37d5,1.3,0,Fomacose,Ban Nuea,Judith Loera  ,Internal
+FCc80eb9ba,Windows Server 2016,205.123.208.132,7efc95db-f9c6-4f8f-9c9b-2c216389c4d2,2,1,Workgroup,13613,Whitley Sugar  ,Outsourcers
+FC59b641b5,Windows 10,101.246.255.3,7f3b5a1c-822d-40a9-af2a-dafe224ca18d,1,0,Workgroup,25667,Hermina Sherwood  ,Internal
+FC8272d258,Windows 7,177.106.57.92,7f533523-4235-435a-a403-a1f7acff2b27,1,0,Montoso,Ban Pong,Missy Stec  ,Resourcers
+FCbbaa91c0,Windows Server 2016,173.88.242.172,7f926c08-a463-4788-bc35-ac44db5d2efb,1,0,Workgroup,20277,Joslyn Khouri  ,Outsourcers
+FCd86983da,Windows Server 2012,106.40.236.213,7fd64bf0-f21d-485f-aeb9-9c56bb7078f0,1.3,0,Workgroup,Na Thanuno,Gene Ahern  ,CXD
+FC1e068ece,Windows 10,32.64.131.243,7fee988e-51f8-4ddc-a170-315507b9b13b,2.2,1,Workgroup,Hindsville,Jeanelle Barfield  ,Outsourcers
+FC349f9fdb,Windows Server 2016,210.56.242.79,80082eb7-67bb-461a-9e37-681512810044,2.2,0,Workgroup,Ban Khon,Raizy Sherrard,Internal
+FCa01f509d,Windows 7,75.177.99.116,806b43f5-85da-42a7-9a7c-ef91660459d1,2,0,Workgroup,Pemberton,Chadwick Mousseau  ,CXD
+FCbb44beb6,Windows 10,48.213.64.121,80d5a49c-32e7-4cfc-87dc-e8a17cc3037c,2.2,0,Workgroup,Ban Rong,Reagan Batten  ,CXD
+FC28665713,Windows 10,1.3.18.111,80faf23e-07c6-4a9a-a6e5-e6e64313f580,1,0,Contaso,77880,Greg Bartholow  ,Outsourcers
+FCf2368575,Windows 10,126.218.6.114,81533530-66ac-4618-a742-7bce5c87d333,1,1,Workgroup,Ban Mek,Pamela Bailey,CXD
+FC655799,Windows 7,138.214.40.160,81614ca5-699b-4534-8461-19310eaf65c6,1,1,Oldcompany.com,Mauritius,Gillian Ruddell  ,Internal
+FCeeab2e67,Windows Server 2016,226.112.2.201,81d54213-c657-492e-acb3-c7230b625344,1.2,0,Montoso,Oakes,Ashanti Briones  ,CXD
+FC610c73d4,Windows 10,50.196.13.232,8222f3fd-6644-4423-969e-3735c284d194,1,1,Workgroup,81082,Ashanti Briones  ,Internal
+FC7fd281ab,Windows Server 2012,147.54.173.62,822579a8-8e69-450c-a225-23780b4676a5,1.3,0,Montoso,Ban Pae,Lashaunda Spang  ,Resourcers
+FC4569245f,Windows Server 2003,65.149.2.41,82f4871b-5592-434c-ba09-e29c3c125e73,2,0,Fomacose,Barbados,Phillis Goldfarb  ,Resourcers
+FC88af5a41,Windows 10,153.56.77.171,831f2d21-311c-4895-9276-5bc5f0b66217,1,1,Workgroup,Ban Mai,Betsey Moorhead  ,Resourcers
+FC033e0557,Windows 7,80.225.244.16,839df43b-3a2c-44e3-ae8b-8f167dfe9747,1.3,0,Montoso,North Chicago,Elliot Elmer  ,Outsourcers
+FCeacfde4c,Windows Server 2016,189.173.52.111,83d2fbf5-9095-4393-8efc-9f6ebf21c6d6,2,1,Fomacose,Saint Barthelemy,Tatyana Blackmon,CXD
+FC95d696de,Windows Server 2016,244.244.212.233,8543f862-0530-448b-8b78-5fe23f8aeea2,1,1,Workgroup,15056,Cherlyn Mclelland  ,Outsourcers
+FC254db515,Windows 7,43.22.147.228,85988a08-e9c2-4d68-b649-6dfea7dc5c16,1,0,Fomacose,Daun Keo,Alonzo Richburg  ,Outsourcers
+FC56171cb1,Windows 7,9.246.46.15,86cc49dd-9f52-4930-80c3-989b8e6b692c,2,0,Workgroup,93654,Marjorie Jordison  ,Internal
+DC56172cb1,Windows 7,9.246.46.15,86cc49dd-9f52-4930-80c3-989b8e6b692c,2,0,Workgroup,93654,Marjorie Jordison  ,Internal
+EndLine here,Windows 10,153.56.77.171,831f2d21-311c-4895-9276-5bc5f0b66217,1,1,Workgroup,Ban Mai,Betsey Moorhead  ,Resourcers
+SJKHSDHJKL,Windows 7,80.225.244.16,839df43b-3a2c-44e3-ae8b-8f167dfe9747,1.3,0,Montoso,North Chicago,Elliot Elmer  ,Outsourcers

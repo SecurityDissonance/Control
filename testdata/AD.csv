@@ -1,0 +1,94 @@
+Asset,OS,IP,MAC,TPM,IsLaptop,Domain,ZipCode
+FC0008d32e,Windows 10,194.224.24.217,75f785ab-a782-447e-99e7-e67b30a02d06,2.2,0,Montoso,Bella Vista
+FC033e0557,Windows 7,80.225.244.16,839df43b-3a2c-44e3-ae8b-8f167dfe9747,1.3,0,Montoso,North Chicago
+FC0911f2c8,Windows 7,249.26.86.131,f1c0d868-45f3-43cc-823a-b98ec0ba65fe,2.2,1,Oldcompany.com,Botswana
+FC66888480,Windows Server 2003,80.118.227.87,5d6224d4-4a77-40e4-a40e-427bb6d5daaa,1.3,0,Contaso,13613
+FC0c22db87,Windows 7,132.150.33.108,e1439141-612e-4e3e-a9c7-0e4e449aa5b9,2,1,Montoso,Melbourne Beach
+FC0ca21b9b,Windows 10,144.4.21.95,b5109f3b-fd6e-4733-87f5-43986ac89596,2.2,1,Fomacose,Algeria
+FC252dcdff,Windows Server 2016,208.11.200.114,00dc5ca9-0776-43b7-866e-e5562185f014,2.2,1,Contaso,19010
+FC1080cc67,Windows 7,125.187.203.211,548a36e2-f3ec-4e21-8465-b28d64fb553b,1.3,1,Dev-Contiso,San Pedro
+FC1404a627,Windows 7,251.146.127.132,5192a9f2-821c-47c0-ab60-4c0d9fa17ae7,1.3,0,Fomacose,Chum Seng
+FC4260cc90,Windows Server 2016,204.150.168.112,461de4f6-b868-4cea-a86a-ce1184c4aa26,2,0,Contaso,30823
+FC1875c2e3,Windows 7,186.107.95.116,4b25a260-9f6a-4137-96ed-eacd7869712b,2,0,Oldcompany.com,Vietnam
+FC18ace126,Windows 10,227.123.169.210,d28e4621-1b6d-49e3-b0d8-ef49d0e487bd,1.3,1,Oldcompany.com,Turkmenistan
+FC193573f7,Windows 10,197.236.67.239,fd40fdc0-d7be-4819-b77b-4835279947af,1.3,0,Oldcompany.com,Seychelles
+FC19ef5e76,Windows 7,14.214.73.159,fa676da2-b00e-4b0a-ba5e-45cc4f48e846,2.2,1,Oldcompany.com,Brazil
+FC1aae3301,Windows 10,46.59.47.147,54e8bdca-1e82-4b43-86d0-ecdf98568ee4,1.3,1,Montoso,Ban Chang
+FC1c3b1f27,Windows 10,223.103.245.213,952f6ba1-aed0-429a-a7f3-bace359ad64b,2,0,Contaso,23113
+FC061238f6,Windows Server 2016,176.174.7.60,a9972156-d14d-44e7-8748-65640f1b9d91,1,0,Contaso,45801
+FC1cb8d9f9,Windows 7,85.220.70.89,ebd8c253-abbc-48c0-9fe1-2149d5656a9b,1.3,1,Dev-Contiso,Yerington
+FC21680405,Windows 10,20.196.232.75,a2d0bcaa-6779-4f02-991a-aeb9d0ccdbf2,1.3,0,Yolocosa,Botswana
+FC254db515,Windows 7,43.22.147.228,85988a08-e9c2-4d68-b649-6dfea7dc5c16,1,0,Fomacose,Daun Keo
+FC691d8bea,Windows Server 2003,44.136.236.85,f90f69fd-af93-4803-8485-303d29c86e34,1,0,Contaso,55974
+FC2819ab91,Windows 10,184.220.170.62,5c8dca20-b825-4ecc-bb2f-ef5ee51822ab,2.2,0,Yolocosa,Monaco
+FC28665713,Windows 10,1.3.18.111,80faf23e-07c6-4a9a-a6e5-e6e64313f580,1,0,Contaso,77880
+FC28c04ffd,Windows 7,27.104.158.67,41f7db9a-5925-42d2-be97-fa1a6c0e5d40,1,1,Yolocosa,Turkmenistan
+FC28f0fc1a,Windows 10,87.134.51.223,d7692ec4-2bdd-48d8-a8d8-5879d27b6f31,1,0,Contaso,21154
+FC8004c0d7,Windows Server 2016,60.156.7.147,dc540864-263e-4d90-ba0c-39c761c29092,1.2,1,Contaso,57467
+FC2a282504,Windows 7,222.207.226.226,8dc76b48-f8e9-4a52-8d7e-4025475a9387,1.2,1,Contaso,56720
+FC2d2a8317,Windows 7,119.13.157.225,8b0cd005-0e77-4b84-943e-0eb878880981,2,0,Fomacose,Ban Suan
+FCf4dbe482,Windows Server 2012,169.202.142.19,34c91ed4-e184-4e81-a608-a19f93f3625a,1.3,1,Contaso,62329
+FC2fc7c239,Windows 10,104.46.101.15,b0d38c44-8913-4256-8a7d-3b0190bc8b33,1,1,Montoso,Senoia
+FC322bc641,Windows 10,123.213.36.74,ae8e11b2-72f5-45dd-9780-0f2c45a6d6de,2,0,Montoso,North Madison
+FC38054b62,Windows 10,32.131.72.185,043f2908-edf9-49f8-bc68-79c3c15af5af,1,0,Contaso,90808
+FC3a1270cd,Windows 7,35.120.251.168,48b681ac-3753-410d-a666-de6605bcd3bc,1.2,1,Yolocosa,San Marino
+FC3a4982ed,Windows 10,53.58.142.41,1d22f66d-fbd3-4d9c-b966-a94ec659284c,2.2,1,Fomacose,Hungary
+FC3c23ad0b,Windows 10,150.2.115.187,11a52dae-b659-4bc8-aab7-fab956316ec7,1,1,Contaso,30165
+FCd2a714a4,Windows Server 2012,218.221.69.143,98fbd4f4-9a0c-4e8f-bb8d-8cc54063d507,2,1,Contaso,72435
+FC3e7f405b,Windows 7,143.117.69.143,3c7bc23b-c3e2-48bc-87e1-9514cfaaba27,1.2,0,Montoso,Ban Mai
+FC43a4aa0f,Windows 10,239.196.19.238,000e858c-394e-4a32-b436-e5f442310340,1,0,Fomacose,New Caledonia
+FC43ad07e4,Windows 10,113.85.147.12,8f57b396-8b02-4812-8a5a-be8d49a01eb5,1.3,0,Fomacose,Burkina Faso
+FC4411f5a5,Windows 7,3.249.19.165,69518b38-d392-4a01-bdbe-349e6b27b12a,1.2,1,Fomacose,New Caledonia
+FC45004df0,Windows 10,46.229.130.130,6b31c0a6-df02-4bb6-9170-d23a736c0f7e,2.2,0,Contaso,51350
+FC45ee4049,Windows 10,124.15.183.21,7dcd2602-0166-427a-8460-f38840d2a5e8,1.3,0,Montoso,Ban Khon
+FC4671a3f2,Windows 7,143.158.141.133,184c4edd-2b5a-4860-b055-f0ad9642c662,1.3,1,Dev-Contiso,San Jacinto
+FCd8659fdf,Windows Server 2016,106.74.182.214,5c01fc4a-429d-4cf7-82d8-dfad81b0acc6,2.2,0,Contaso,78257
+FC4a7e4e7d,Windows 10,35.238.68.172,12aabfcb-f56a-448d-a100-64356f15cb8b,2.2,0,Montoso,Mount Prospect
+FC4db27b2d,Windows 7,199.86.237.121,e9b70041-ce07-4fb8-9986-5341f6a0fc0f,1.3,1,Contaso,21210
+FC50017aaa,Windows 7,5.50.34.246,36fd17c7-cb31-4b50-bef2-354bdbc7c5a9,2,0,Contaso,78465
+FC529b0958,Windows 10,141.6.188.134,8cbbb018-674e-4702-955e-de5181d3c59b,2.2,0,Contaso,37737
+FC5733fd3a,Windows 10,141.241.150.143,499c24b3-d521-4257-9d9b-d8b23a65b88a,1,0,Dev-Contiso,Axis
+FC575a1b6c,Windows 7,103.92.96.253,7ee38ea8-2738-47fd-b69e-3ed6556f37d5,1.3,0,Fomacose,Ban Nuea
+FC5ca7b3a4,Windows Server 2016,200.117.97.45,64e505c5-0f13-4433-a553-ab1f8dab585a,1,1,Contaso,93654
+FC5816d92a,Windows XP,159.147.213.141,1e8b4d24-8c5e-4190-9aff-a1edcecc53e5,1,0,Contaso,19967
+FC5b68fce4,Windows 10,253.210.27.142,56a39100-a585-4609-973b-5f42db69ae16,1,0,Montoso,Cabon
+FC8b7ee759,Windows Server 2012,104.168.64.69,d4da83b8-d76d-4a39-adb2-e69944a6575a,1.3,1,Contaso,94547
+FC5d3302ba,Windows 7,228.58.48.153,6cf288a6-7bd4-4991-b15b-e0a87faf7385,1.2,1,Contaso,56308
+FC5d9f266b,Windows 10,241.44.232.135,bef01f4f-3887-4853-a8c0-c1c2323ad4b7,1,0,Fomacose,Serbia
+FC5ed02d47,Windows XP,154.74.160.202,db56f39e-a54d-42b2-9af2-5afdb687e500,1,1,Montoso,Schram City
+FCfdff8aba,Windows Server 2003,145.252.153.103,961695d0-25c0-421a-87d2-da8a2cac353e,1,0,Yolocosa,Algeria
+FC639f2307,Windows Server 2012,226.135.116.12,a0ea7e3c-86f7-4d9f-9526-66c5c22dd1a8,1.2,1,Fomacose,Algeria
+FC6229178c,Windows 7,6.68.144.112,f3fb6ec7-ce6e-445a-874d-ebbf4f6f5679,1.2,0,Montoso,Nikiski
+FC62aa3607,Windows 10,16.252.241.109,4feb65b0-99bf-45d6-bb29-cfe35ad6116c,1,0,Fomacose,Spain
+FCfcf28d9c,Windows Server 2003,134.164.218.238,7657cff0-3bf1-47c9-982c-5e35d32c711f,1.3,1,Dev-Contiso,Annawan
+FC64cf3927,Windows 10,37.72.10.29,994278b5-b10a-43d0-b71e-0c81d12294b2,1,1,Fomacose,Spain
+FC64f7977a,Windows 10,176.76.16.190,74cad7a5-583e-4752-ba29-6cf7dcda2b43,1,0,Dev-Contiso,Vienna
+FC655799,Windows 7,138.214.40.160,81614ca5-699b-4534-8461-19310eaf65c6,1,1,Oldcompany.com,Mauritius
+FC3d369f0f,Windows Server 2016,157.152.145.103,b4960c31-e87d-451c-bc38-f86bb584cd54,2.2,1,Fomacose,Antarctica (the territory South of 60 deg S)
+FC66af3a9c,Windows 7,61.114.132.176,4a2dc1ac-aaf7-4eb5-84eb-a1022aa8a8cf,1,0,Oldcompany.com,Wallis and Futuna
+FC67828fb1,Windows 10,222.37.63.68,5dcac008-7b36-45b6-bcec-211203145d28,1.3,0,Oldcompany.com,Svalbard & Jan Mayen Islands
+FC687ac24c,Windows XP,44.106.156.8,42be88a7-ce69-4698-a42e-c0cee037c429,1,0,Contaso,Rhame
+FC762a6945,Windows Server 2003,44.175.85.237,53947bbe-9ac8-4953-9221-6cd8871cdb12,2,0,Montoso,Ban Erawan
+FC6ba6396e,Windows 10,50.170.174.246,46a86e6c-7ac6-4b70-a6cb-49b50aff66fd,1,0,Oldcompany.com,Algeria
+FC6be09650,Windows 10,106.63.127.82,cf464895-a8f8-499f-81b3-a14c3b7bea01,2.2,1,Fomacose,Ban Somwang
+FC4ef70b0e,Windows Server 2016,74.27.194.250,63040c58-1f9c-4e12-ba53-34c3f9237a21,1,0,Montoso,Ban Kalum
+FC0752cc22,Windows Server 2003,193.248.67.74,60864bb3-5cb9-4dc2-8c88-cef142e25837,1.3,1,Montoso,Ban Khamong
+FC6fc41f1f,Windows 10,223.153.214.79,a2dbb6c2-d446-4ff4-a939-b485b4089b0c,1,1,Montoso,Ban Teteh
+FC70df497e,Windows 10,40.6.58.5,3e211971-3ea0-44ab-9bd6-8d891a8e7049,2.2,1,Fomacose,Ban Thum
+FC718f3566,Windows 10,109.196.125.191,25403cf4-fbed-4ba3-91e3-e1c2585c8bfe,1,0,Fomacose,Belize
+FC8dc0880d,Windows Server 2016,219.152.60.155,4eb243a0-1899-439f-b372-18e21fd71390,2.2,1,Montoso,Ban Klang
+FC72c2b683,Windows 7,228.127.152.250,1c62f360-2dec-443e-bcc5-e4497205d00b,1,1,Fomacose,Philippines
+FCf665a26c,Windows Server 2016,200.42.12.209,69f9f83c-3774-4570-9b7b-99530432095d,1,1,Montoso,Ban Mai
+FC5cd07c10,Windows Server 2012,169.152.187.43,8725d63d-962f-4a68-a043-b44f2164d6de,1.3,0,Montoso,Ban Mo
+FCe1813f37,Windows Server 2012,221.130.10.136,59000a33-0cf1-4985-9ca6-9215e228af19,1.3,0,Montoso,Ban Ngiang
+FC76cd64e4,Windows 10,57.161.97.112,5872c5c1-84dd-48a3-994e-c95041b1cd7d,1,1,Montoso,Ban Phai
+FCf401b97b,Windows Server 2016,207.52.127.63,7b993ac1-6a37-4345-a52b-de06f0958b45,1.2,0,Montoso,Ban On
+FC7ab84ab2,Windows 7,89.244.248.202,e01a333b-8239-4f64-a077-88380ea89563,1.3,1,Contaso,51550
+FC7b7cbbe6,Windows 10,244.28.180.119,8e713531-722d-41e6-a9c2-a130210a12a1,2.2,1,Contaso,10505
+FC7c41fbd1,Windows 10,62.188.81.136,f6b3d7b2-c7a0-4028-a1cf-f3a5f44db035,2.2,0,Dev-Contiso,Cutlerville
+FC7fd281ab,Windows Server 2012,147.54.173.62,822579a8-8e69-450c-a225-23780b4676a5,1.3,0,Montoso,Ban Pae
+FC048104ba,Windows Server 2012,150.20.147.43,2c770828-8c8a-457e-af11-8a6b22efe268,1.3,0,Montoso,Ban Pengchan
+FCc0f3a54f,Windows Server 2016,112.37.245.233,e49234da-280e-48ca-b183-ad109455387b,1,1,Fomacose,Ban Rai
+FC406a0c2e,Windows Server 2003,255.154.232.80,d6ef06bb-e96a-45c6-8fc1-dc847852aa19,1,1,Montoso,Ban Rong
+FCd41f2edf,Windows Server 2016,63.167.70.46,32370c77-ce8d-4d47-bd31-357c3f0b7977,1,0,Montoso,Ban Saeo
+FC81661ff2,Windows 10,27.51.79.74,ee60a2db-b95b-4cee-babf-7e67264b49f8,2.2,1,Contaso,28610

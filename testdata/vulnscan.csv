@@ -1,0 +1,93 @@
+Asset,OS,IP,MAC,TPM,IsLaptop,Domain,ZipCode
+FC99e84eb8,Windows Server 2003,10.88.251.178,5a5d9ae8-360d-456d-a484-cb0895f1f8e8,1,0,Workgroup,94547
+FC26b1686c,Windows Server 2016,100.49.82.91,dc62c0cc-fc37-4c1c-aed7-090208673678,1,0,Workgroup,Nam Chieu
+FCe2686c7e,Windows Server 2016,101.108.73.141,3c516785-29cd-4adf-91da-505ef4a69852,2.2,1,Workgroup,78646
+FC1c664912,Windows Server 2012,102.182.191.75,2bd9089c-3d67-4f97-9aac-4e4a3241df54,1.3,1,Workgroup,Cutlerville
+FCff803368,Windows Server 2016,102.185.14.45,a8977e75-d3bc-4b04-83c9-d021f8852171,1,1,Workgroup,72435
+FC50b1e006,Windows Server 2016,103.150.188.54,c66d3a51-c886-4a4a-b356-3f06af3ca5f5,1.2,0,Workgroup,23113
+FC6d6a559f,Windows Server 2012,104.118.170.140,624a4229-42fe-4b09-9e21-7da466ad758a,1.3,0,Workgroup,85015
+FC8b7ee759,Windows Server 2012,104.168.64.69,d4da83b8-d76d-4a39-adb2-e69944a6575a,1.3,1,Contaso,94547
+FC57e27c79,Windows Server 2016,105.161.168.102,b5dc3967-e27b-48af-99a7-4b1c1fb47dac,1,0,Montoso,La Madera
+FC6967dbc4,Windows Server 2003,105.248.134.16,aaa4f120-4822-408c-860b-cd3ec66d9f00,1,1,Workgroup,52732
+FCd86983da,Windows Server 2012,106.40.236.213,7fd64bf0-f21d-485f-aeb9-9c56bb7078f0,1.3,0,Workgroup,Na Thanuno
+FC4875d443,Windows Server 2016,106.72.78.49,3aeaca4a-2d8b-4be8-9eab-f990631c46b0,2.2,1,Fomacose,Swaziland
+FCd8659fdf,Windows Server 2016,106.74.182.214,5c01fc4a-429d-4cf7-82d8-dfad81b0acc6,2.2,0,Contaso,78257
+FCd043fe8b,Windows Server 2003,107.64.137.11,93373548-9c0a-4443-bdbb-57c228cf4401,1,1,Montoso,Mount Ida
+FC48f74fd5,Windows Server 2016,108.246.113.107,b38fbf51-19c3-425a-a924-c3130b5e210e,2,0,Workgroup,Ban Khamong
+FC86188743,Windows Server 2016,108.37.178.12,96c96874-ea2c-4b9f-b9e8-1a416cf776b2,2.2,1,Workgroup,50568
+FC9980c53a,Windows Server 2003,11.94.255.172,d03aa039-c64b-4f8c-ac5c-8e2c428d7a37,1,1,Workgroup,85015
+FC97bf72ff,Windows Server 2003,110.108.151.150,37b19b87-9708-47f1-af4d-418830948e21,1.3,0,Workgroup,70429
+FC236b6e21,Windows Server 2012,110.226.159.111,cecaaff7-2e4e-490e-90ad-ded091440bb1,2,0,Workgroup,Clarks
+FC9fcfc63f,Windows Server 2016,111.113.245.194,1df0c810-24d7-4bdb-8229-422c0440a433,2,1,Montoso,Ban So
+FCd669e5c0,Windows Server 2012,111.66.129.42,d773470a-a90b-4214-99ed-4ba9b2a8701f,2,0,Workgroup,30165
+FCc0f3a54f,Windows Server 2016,112.37.245.233,e49234da-280e-48ca-b183-ad109455387b,1,1,Fomacose,Ban Rai
+FC45993dae,Windows Server 2016,113.151.205.83,7dfc6156-bd5f-4938-a792-64c0a7aa58be,2,0,Workgroup,Ban Erawan
+FC5d976dce,Windows Server 2016,113.249.194.57,1c195c52-200f-4825-acff-afc28481ba71,2.2,1,Workgroup,77880
+FC6eb091a2,Windows Server 2012,113.33.93.174,4aec6c04-1995-4290-951c-92c75aaffb8b,1.3,0,Montoso,Howard City
+FC0ce15e34,Windows Server 2003,114.189.177.52,51c30086-115b-4574-ad6c-37f4d15c7ac8,1,1,Workgroup,60176
+FCcb4d8b67,Windows Server 2016,115.209.23.110,b39a5899-c2c9-4ec0-9bf0-bbb8901044f5,2.2,1,Workgroup,90808
+FC10e3837b,Windows Server 2016,115.72.230.27,18255cb3-e834-4973-a70a-dba7ec243e2b,1,1,Workgroup,59923
+FC2bc97e78,Windows Server 2012,116.64.221.165,b5ce4d49-8fab-430f-9f93-0b430f68b59a,1.3,0,Fomacose,Greenland
+FCfa72908b,Windows Server 2016,118.181.8.25,098505c9-141f-4de8-b869-5da2cd3b4e90,1,1,Workgroup,Axis
+FCe3428536,Windows Server 2016,118.222.167.42,307dd9f2-66e6-484f-ba73-77f1093f801b,1.2,0,Workgroup,68816
+FC91e56e02,Windows Server 2016,118.93.254.78,5049aded-3da4-4966-9b28-41f191b52703,2,0,Workgroup,Loleta
+FC81f03a61,Windows Server 2016,12.4.182.236,00cb17e6-9d0c-4fe2-b6dd-b53cbf71b9f9,2,1,Montoso,Ban Tai
+FC207d27e4,Windows Server 2016,122.238.218.183,43c834c6-0142-4288-bbb1-4e542eb80748,1.2,1,Workgroup,North Madison
+FCde5e518e,Windows Server 2003,123.2.178.229,1d9ceb82-3afb-4144-b544-0eee3634e079,1.3,1,Workgroup,Ban Pong
+FC466bb193,Windows Server 2016,124.228.104.31,15224f69-8b41-436a-8998-24ab69af8ab7,1.3,1,HomePC,Serbia
+FC4b34cf1f,Windows Server 2003,124.240.97.227,d8856a18-5659-4ef9-ba50-c7dc26e19e5c,1,0,Workgroup,Ban Mo
+FCc552f0dd,Windows Server 2016,128.10.69.53,efe5b1cc-15f0-4d52-b28f-01232123e212,2,1,Workgroup,43972
+FC46d831f2,Windows Server 2003,128.70.145.30,5514960b-8948-43d8-a32b-93ac22f7fbd4,1,0,Workgroup,Ste. Genevieve
+FC91212f37,Windows Server 2016,129.126.34.219,ff72e360-6d92-4d8e-a809-a1a86a6079f2,1,0,Contaso,New Lexington
+FC0a161f58,Windows Server 2016,130.1.222.16,2f688b6c-3169-41f0-b5f7-fdf944529cf8,2.2,0,Fomacose,Cyprus
+FC12d1391b,Windows Server 2012,132.233.206.107,47a49d7a-51fc-4488-8475-e2de1615b3c7,2,0,Montoso,Nam Chieu
+FCfcf28d9c,Windows Server 2003,134.164.218.238,7657cff0-3bf1-47c9-982c-5e35d32c711f,1.3,1,Dev-Contiso,Annawan
+FCf59e0e61,Windows Server 2016,135.23.51.49,01dc3d0f-df8d-4fff-85e1-4f1c0ee60565,1,0,Workgroup,30728
+FCbba99271,Windows Server 2016,135.38.49.187,d57cb7e2-666b-412c-81d7-3b5cb9b0b725,1,1,Fomacose,Marshall Islands
+FCd35a25db,Windows Server 2012,138.0.97.29,0584302b-f659-4ab5-b43c-87d9face95de,1.3,1,Workgroup,89318
+FCc8c6703b,Windows Server 2003,138.70.152.29,622a5512-ae6e-4638-bb0c-cb33e6736a4f,1,1,Workgroup,Ban Pae
+FC031c1038,Windows Server 2016,139.193.227.121,591e1500-0bd4-492c-a01c-ed66e24e9869,1,1,Fomacose,Dominican Republic
+FCe940a18e,Windows Server 2016,14.88.44.172,271024b4-12e0-4d28-b7b5-e3d07fd277fe,2,0,Dev-Contiso,Union Hill
+FC487fe66e,Windows Server 2003,141.252.45.115,d6ddc7bd-dea9-4b48-bc18-327aca5c5150,1,1,Dev-Contiso,Hindsville
+FC0a3a25bd,Windows Server 2016,143.121.45.254,42d63470-06b7-4dbe-bd2d-197a5987b6a9,1,1,Montoso,Ban Uan
+FC9356113b,Windows Server 2012,143.215.194.206,c645499d-57b9-4189-99a8-bfcaa606dd22,2,0,Workgroup,13408
+FC8c7425bc,Windows Server 2016,144.170.103.98,b0c3e21a-4dbc-4d59-a1ad-eb9cf268fd31,2.2,1,Workgroup,Lena
+FC2cc18c64,Windows Server 2003,144.32.95.190,256dfd73-0e6d-4ed6-a067-b48fc19211ca,1.3,0,Workgroup,56308
+FCfdff8aba,Windows Server 2003,145.252.153.103,961695d0-25c0-421a-87d2-da8a2cac353e,1,0,Yolocosa,Algeria
+FC97e177b8,Windows Server 2012,147.209.70.61,778987a2-4cf7-4ca1-9548-2822b78113f0,1.3,1,Oldcompany.com,Monaco
+FC63fa2c4b,Windows Server 2012,147.253.247.2,c43b30e1-3d7f-42c6-ac20-41eed5c77675,1.3,0,Workgroup,55793
+FC7fd281ab,Windows Server 2012,147.54.173.62,822579a8-8e69-450c-a225-23780b4676a5,1.3,0,Montoso,Ban Pae
+FC6e7e2f38,Windows Server 2016,147.63.155.197,278af41d-4c81-42af-9ad8-dcab17a51833,1,0,Workgroup,Naung Kuk
+FCd0df1880,Windows Server 2016,148.220.64.220,fbde0ba7-c319-420b-8f97-97b80dbbdecf,1,0,Yolocosa,Wallis and Futuna
+FC9869c314,Windows Server 2016,149.0.65.147,314804d5-6a65-42ff-9c94-c530c18c160f,2,1,Workgroup,84518
+FC048104ba,Windows Server 2012,150.20.147.43,2c770828-8c8a-457e-af11-8a6b22efe268,1.3,0,Montoso,Ban Pengchan
+FCfe35fed2,Windows Server 2003,150.206.8.146,5b610370-b44f-4166-8aa2-1664ad6fc71b,1.3,0,Workgroup,56720
+FCb4b0b269,Windows Server 2012,151.65.145.178,3e07a852-442f-4f87-83ea-de5d8bc78c1b,1.3,1,Workgroup,Nong Lub
+FCdefdd892,Windows Server 2003,152.198.49.77,13170597-5fd5-4fbc-8ddf-953d224f578c,1.3,1,Workgroup,Nikiski
+FCcd61872c,Windows Server 2012,153.122.244.125,6a8593e5-c5d0-4fc3-9777-54fd917b7a51,1.3,1,Workgroup,Lakemoor
+FCfbebdc0e,Windows Server 2003,153.204.157.107,92d84c46-4266-4f7e-8e14-664a30fae12e,2,0,Fomacose,Turkey
+FCd7e898b7,Windows Server 2012,156.240.157.73,4445e639-ac9a-46d8-b546-7c6015f52689,1.3,0,Workgroup,60176
+FC42ca82a0,Windows Server 2016,156.57.202.158,94686452-f34f-4f27-aa4b-61106af1d063,1.2,0,Workgroup,61468
+FC3d369f0f,Windows Server 2016,157.152.145.103,b4960c31-e87d-451c-bc38-f86bb584cd54,2.2,1,Fomacose,Antarctica (the territory South of 60 deg S)
+FC539aa071,Windows Server 2016,157.51.189.3,9b7325aa-9aa7-49dc-9c2f-b8f3fa969259,2.2,0,Montoso,Sam Khok
+FC13eff4e8,Windows Server 2016,159.181.250.32,8d35945c-48ea-4d5e-976b-4f50d00ff275,1,0,Yolocosa,Vietnam
+FC7ef4609e,Windows Server 2003,159.93.64.98,dbbefbe2-a38e-4612-9b5d-586dff76f385,1.3,1,Workgroup,78142
+FCda806778,Windows Server 2016,16.73.86.116,2426434f-245a-4c17-84d6-d5f3f94de85d,2.2,0,Dev-Contiso,Makaha
+FC8d527ab2,Windows Server 2016,162.154.194.54,f0041c8f-1ed8-4808-8f8e-32c4d8e92e64,2.2,1,Fomacose,Ecuador
+FCe1036c6f,Windows Server 2012,163.30.47.31,1fb416a2-e496-44d4-961c-f0761ff8c8c1,1.3,0,Workgroup,10102
+FC78409f1f,Windows Server 2012,168.102.96.206,a7955fe8-8686-4435-a4e4-5e35474d4a2d,1.3,0,Workgroup,Ban Somwang
+FC49c396df,Windows Server 2016,168.231.116.86,e041e712-f75e-47a9-8377-360d631d774c,2.2,1,Workgroup,21154
+FC5cd07c10,Windows Server 2012,169.152.187.43,8725d63d-962f-4a68-a043-b44f2164d6de,1.3,0,Montoso,Ban Mo
+FCffcb11e0,Windows Server 2016,169.177.150.187,e989fe0b-21c8-46ef-9adf-6735f1c6f306,1.2,0,Workgroup,74945
+FCf4dbe482,Windows Server 2012,169.202.142.19,34c91ed4-e184-4e81-a608-a19f93f3625a,1.3,1,Contaso,62329
+FC7665313b,Windows Server 2016,170.67.66.145,88d30bd6-bf47-4478-b407-3f1094442785,1,0,Fomacose,Cyprus
+FCdc8109bd,Windows Server 2012,171.199.60.143,6be51c16-1e02-4217-84b3-960237af014c,1.3,1,Workgroup,17935
+FC8193b588,Windows Server 2016,171.33.174.97,2711284c-8b53-4405-a737-534c23783c11,1,0,Contaso,Pemberton
+FC1c15ea03,Windows Server 2012,172.100.73.104,641debe2-7e82-41f1-80cf-822941ca4266,1.3,0,Workgroup,10913
+FC141cb316,Windows Server 2016,172.152.191.242,1ef25c59-3419-4b28-b146-ecf8d0c52b02,2.2,1,Fomacose,Latvia
+FCbbaa91c0,Windows Server 2016,173.88.242.172,7f926c08-a463-4788-bc35-ac44db5d2efb,1,0,Workgroup,20277
+FC0e2fbdca,Windows Server 2016,174.150.203.96,41cf391c-9576-4cf0-a44b-87b34b85e700,2.2,0,Workgroup,Ban Teteh
+FC061238f6,Windows Server 2016,176.174.7.60,a9972156-d14d-44e7-8748-65640f1b9d91,1,0,Contaso,45801
+FC0733d786,Windows Server 2012,178.106.184.48,5adff8bb-3718-4690-b418-cd552e696121,2,1,Montoso,Churchill
+FCe50dc1fb,Windows Server 2016,178.156.9.178,4a208fd2-aa19-4c40-a08d-47c3ac627901,1,0,HomePC,San Marino
+FC35819640,Windows Server 2012,178.6.83.30,22fb5197-515f-4e71-82ab-3b891231454e,1.2,1,Fomacose,Cuba
