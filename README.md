@@ -5,13 +5,14 @@ Creating a list of existing assets in your enviroment/
 Asset management is a critical security control. The design of this program is to get you to level 3 in short order. The work required will be gathering your security and other Business data/
 
 Levels
-⋅⋅⋅	Stage 0: Nothing, very little knowledge about what you have an what is managed
-⋅⋅⋅	Stage 1: Lists - normally  excel spreadsheets, incomplete, out of date and non-standardized
-⋅⋅⋅	Stage 2: CMDB Manually updated, better functionality and data, but still out of data, some standardization forced/
-⋅⋅⋅	Stage 3: Data Driven collection, more accurate information, a level of confidence in the data, not real time, lagged/
-⋅⋅⋅	Stage 4: Data Driven Real time, Asset and control tracking in real time normally done in a SIEM/
-⋅⋅⋅	Stage 5: NAC, security driven connectivity, forced compliance and inspection on devices before connectivity is allowed/
-⋅⋅⋅	Stage 6: NAC + WIDS + Device 
+
+*	Stage 0: Nothing, very little knowledge about what you have an what is managed
+*	Stage 1: Lists - normally  excel spreadsheets, incomplete, out of date and non-standardized
+*	Stage 2: CMDB Manually updated, better functionality and data, but still out of data, some standardization forced/
+*	Stage 3: Data Driven collection, more accurate information, a level of confidence in the data, not real time, lagged/
+*	Stage 4: Data Driven Real time, Asset and control tracking in real time normally done in a SIEM/
+*	Stage 5: NAC, security driven connectivity, forced compliance and inspection on devices before connectivity is allowed/
+*	Stage 6: NAC + WIDS + Device 
 	
 Data is broken up into two classes
 
