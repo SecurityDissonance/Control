@@ -1,7 +1,7 @@
 # Control
 Creating a list of existing assets in your enviroment
 
-
+# Purpose
 Asset management is a critical security control. The design of this program is to get you to level 3 in short order. The work required will be gathering your security and other Business data
 
 Levels
@@ -32,7 +32,7 @@ https://static.rainfocus.com/splunk/splunkconf18/sess/1523503933784001sLOT/final
 
 A server or workstation: Windows or Linux are options, this shouldn't be load heavy
 
-#Requirements
+# Requirements
 
 Mongo DB
 PowerShell
@@ -49,7 +49,7 @@ Optional
 Optional, but useful is Mongo compass or 3t or another tool to visualize the data, 
 Python if you want to recode it and make it run faster
 
-#Steps 
+# Steps 
 
 	1. Stand up MongoDB community edition Server. Mongo is fairly easy to set up and start (but please put a username and password on yours 🙂 )
 	
@@ -65,6 +65,7 @@ Python if you want to recode it and make it run faster
   
 	5. Create reports from the data
 
+# Logic
 "Asset" will be the pseudo UUID (Mongos Default UUID will still exist), but for all our purposes we will attempt to match on Asset name. Mongo is case sensitive so your naming convention standards are important
 
 Since MongoDB is a NoSQL DB you can add fields and values at will. But you still want to follow an organization schema to make pulling and comparing data out easier
